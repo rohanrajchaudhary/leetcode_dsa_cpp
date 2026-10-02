@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0049-group-anagrams) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0347-top-k-frequent-elements) |
 | [0875-koko-eating-bananas](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -58,14 +59,36 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0347-top-k-frequent-elements) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0022-generate-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
