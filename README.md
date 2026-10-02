@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0242-valid-anagram) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0022-generate-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Matrix
 |  |
@@ -57,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0242-valid-anagram) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
