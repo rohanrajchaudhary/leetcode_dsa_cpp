@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0347-top-k-frequent-elements) |
 | [0875-koko-eating-bananas](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Dynamic Programming
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
