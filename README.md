@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0347-top-k-frequent-elements) |
@@ -123,5 +124,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0202-happy-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
