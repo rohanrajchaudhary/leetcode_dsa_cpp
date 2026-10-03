@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0290-word-pattern) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
