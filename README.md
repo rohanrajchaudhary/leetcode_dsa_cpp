@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0242-valid-anagram) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0347-top-k-frequent-elements) |
