@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0875-koko-eating-bananas) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0347-top-k-frequent-elements) |
 ## Backtracking
 |  |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -156,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0678-valid-parenthesis-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
