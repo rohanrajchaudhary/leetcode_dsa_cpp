@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0152-maximum-product-subarray) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0678-valid-parenthesis-string) |
