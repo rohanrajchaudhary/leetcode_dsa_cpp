@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Breadth-First Search
 |  |
 | ------- |
