@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1004-max-consecutive-ones-iii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0904-fruit-into-baskets](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
