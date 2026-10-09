@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0301-remove-invalid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0678-valid-parenthesis-string) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -283,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
