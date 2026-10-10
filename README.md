@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0977-squares-of-a-sorted-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0347-top-k-frequent-elements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
