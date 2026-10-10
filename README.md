@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0904-fruit-into-baskets) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Sorting
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0387-first-unique-character-in-a-string) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Quickselect
 |  |
 | ------- |
