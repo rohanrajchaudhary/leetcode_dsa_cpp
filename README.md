@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -305,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0387-first-unique-character-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
