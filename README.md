@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0875-koko-eating-bananas) |
@@ -331,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0005-longest-palindromic-substring) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
