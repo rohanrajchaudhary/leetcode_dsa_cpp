@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0977-squares-of-a-sorted-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -346,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0278-first-bad-version) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
