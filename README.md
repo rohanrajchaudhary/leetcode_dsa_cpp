@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0119-pascals-triangle-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0074-search-a-2d-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Binary Search
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0209-minimum-size-subarray-sum) |
