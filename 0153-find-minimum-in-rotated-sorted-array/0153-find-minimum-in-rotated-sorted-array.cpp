@@ -3,20 +3,18 @@ public:
     int findMin(vector<int>& nums) {
         int low = 0;
         int high = nums.size() - 1;
-        while (low<high)
+        while(low < high)
         {
-            int mid = low+(high-low)/2;
+            int mid = low + (high - low)/2;
             if(nums[mid] > nums[high])
             {
-                low = mid+1;
+                low = mid + 1;
             }
             else
             {
                 high = mid;
-                // mid = high;
             }
         }
         return nums[low];
-    
     }
 };
