@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0704-binary-search) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Matrix
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0977-squares-of-a-sorted-array) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0179-largest-number) |
+| [0435-non-overlapping-intervals](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
