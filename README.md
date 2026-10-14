@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0643-maximum-average-subarray-i](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0724-find-pivot-index) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0912-sort-an-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0977-squares-of-a-sorted-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1657-determine-if-two-strings-are-close) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0678-valid-parenthesis-string](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
