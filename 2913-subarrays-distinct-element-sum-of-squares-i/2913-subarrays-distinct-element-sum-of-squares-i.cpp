@@ -4,7 +4,7 @@ public:
         int totalSum = 0;
         
         
-        // Generate all possible subarrays
+        
         for (int i = 0; i < nums.size(); i++) {
             unordered_set<int> distinctElements;
             for (int j = i; j < nums.size(); j++) {
