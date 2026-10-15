@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0496-next-greater-element-i](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0724-find-pivot-index) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0904-fruit-into-baskets) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1657-determine-if-two-strings-are-close) |
@@ -411,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
