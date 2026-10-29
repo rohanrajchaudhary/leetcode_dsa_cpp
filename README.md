@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0090-subsets-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0301-remove-invalid-parentheses) |
 ## Divide and Conquer
 |  |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0287-find-the-duplicate-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
