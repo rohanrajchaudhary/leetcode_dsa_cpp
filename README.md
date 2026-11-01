@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0056-merge-intervals) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0131-palindrome-partitioning) |
@@ -579,4 +581,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
