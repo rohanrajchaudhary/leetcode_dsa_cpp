@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0151-reverse-words-in-a-string) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0090-subsets-ii) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0301-remove-invalid-parentheses) |
@@ -548,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/3841-palindromic-path-queries-in-a-tree) |
