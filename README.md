@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1710-maximum-units-on-a-truck](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1710-maximum-units-on-a-truck) |
+| [1882-process-tasks-using-servers](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0912-sort-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
