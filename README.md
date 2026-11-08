@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1143-longest-common-subsequence](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1143-longest-common-subsequence) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1143-longest-common-subsequence) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -679,4 +681,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
