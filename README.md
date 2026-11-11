@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0494-target-sum](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0643-maximum-average-subarray-i) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0746-min-cost-climbing-stairs) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0494-target-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -722,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0494-target-sum) |
 ## Brute-Force Search
 |  |
 | ------- |
