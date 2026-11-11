@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0125-valid-palindrome) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0189-rotate-array) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0136-single-number) |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0735-asteroid-collision) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Quicksort
