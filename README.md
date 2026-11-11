@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0128-longest-consecutive-sequence) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0131-palindrome-partitioning) |
