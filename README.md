@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0494-target-sum) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0338-counting-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/3841-palindromic-path-queries-in-a-tree) |
