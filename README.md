@@ -572,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0322-coin-change) |
 | [1254-number-of-closed-islands](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1254-number-of-closed-islands) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
@@ -680,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
