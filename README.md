@@ -665,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0543-diameter-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0543-diameter-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0543-diameter-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -802,4 +805,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
