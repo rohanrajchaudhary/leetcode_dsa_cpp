@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1004-max-consecutive-ones-iii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/3364-minimum-positive-sum-subarray) |
 ## Union-Find
 |  |
 | ------- |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2747-count-zero-request-servers](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Breadth-First Search
