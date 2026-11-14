@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1052-grumpy-bookstore-owner) |
 | [1254-number-of-closed-islands](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1267-count-servers-that-communicate) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1046-last-stone-weight) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2333-minimum-sum-of-squared-difference) |
