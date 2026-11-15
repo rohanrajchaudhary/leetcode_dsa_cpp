@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0215-kth-largest-element-in-an-array) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0322-coin-change) |
@@ -746,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
