@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/3364-minimum-positive-sum-subarray) |
 ## Union-Find
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/2409-count-days-spent-together) |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0295-find-median-from-data-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1352-product-of-the-last-k-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -893,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/0295-find-median-from-data-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rohanrajchaudhary/leetcode_dsa_cpp/tree/master/1352-product-of-the-last-k-numbers) |
 ## Topological Sort
 |  |
 | ------- |
